@@ -1,6 +1,11 @@
 # Light to Dark Mode Chrome Extension
 This is a Chrome Extension that allows users to switch between light mode and dark mode on any website they are visiting. The extension is designed to make it easy for users to switch between modes without having to navigate through a website's settings.
 
+
+## Preview
+
+![Alt text](ext.jpg)
+
 ## Installation
 
 To install the extension, follow these steps:
