@@ -10,6 +10,8 @@ This is a Chrome Extension that allows users to switch between light mode and da
 
 To install the extension, follow these steps:
 
+Run: NPM run start
+
 Download the code from the Github repository or get it from the Chrome Web Store.
 Open the Chrome browser and navigate to the Extensions page (chrome://extensions/)
 Enable Developer mode by toggling the switch in the top right corner.
