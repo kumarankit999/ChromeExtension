@@ -5,13 +5,6 @@ This is a Chrome Extension that allows users to switch between light mode and da
 ## Preview
 
 ![Alt text](ext.jpg)
-
-## Installation
-
-To install the extension, follow these steps:
-
-Run: NPM run start
-
 Download the code from the Github repository or get it from the Chrome Web Store.
 Open the Chrome browser and navigate to the Extensions page (chrome://extensions/)
 Enable Developer mode by toggling the switch in the top right corner.
@@ -19,6 +12,30 @@ Click the "Load unpacked" button in the top left corner and select the folder wh
 The extension will now be installed and ready to use.
 Usage
 To use the extension, simply click on the icon in your Chrome toolbar. This will toggle the website between light mode and dark mode. The extension will remember your preference for each website, so if you switch a website to dark mode, it will stay in dark mode even if you close the tab or browser.
+
+### Getting Started
+> Clone this github repository
+```
+git clone  
+ ```
+> Move to cloned project
+```
+cd chromeExtension
+ ```
+> Install all dependencies
+```
+npm install
+ ```
+ > Run Server
+```
+npm start
+ ```
+Finally,
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console
 
 ## Features
 The Light to Dark Mode Chrome Extension comes with several features:
