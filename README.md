@@ -52,6 +52,6 @@ If you have any feedback or suggestions for improving the Light to Dark Mode Chr
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-## Show us love by giving us ⭐
+## Show us love by giving a ⭐
 
 
