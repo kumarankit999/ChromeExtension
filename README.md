@@ -46,7 +46,7 @@ Option to switch to dark mode on all websites.
 Option to exclude specific websites from switching to dark mode.
 Option to have a ability of Vice-Versa Function
 
-## Feedback and Contributions
+## Feedback
 If you have any feedback or suggestions for improving the Light to Dark Mode Chrome Extension, please feel free to reach out to me. If you are interested in contributing to the project, you can fork the Github repository and create a pull request with your changes.
 
 ## License
